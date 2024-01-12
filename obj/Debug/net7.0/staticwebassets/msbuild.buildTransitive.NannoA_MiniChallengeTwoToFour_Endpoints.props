@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NannoA_MiniChallengeTwoToFour_Endpoints.props" />
+</Project>

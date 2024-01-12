@@ -1,0 +1,99 @@
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/appsettings.Development.json
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/appsettings.json
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.exe
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.deps.json
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.runtimeconfig.json
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.dll
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.pdb
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/Microsoft.OpenApi.dll
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.csproj.AssemblyReference.cache
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.AssemblyInfoInputs.cache
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.AssemblyInfo.cs
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.csproj.CoreCompileInputs.cache
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.MvcApplicationPartsAssemblyInfo.cs
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.MvcApplicationPartsAssemblyInfo.cache
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.NannoA_MiniChallengeTwoToFour_Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.build.NannoA_MiniChallengeTwoToFour_Endpoints.props
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.NannoA_MiniChallengeTwoToFour_Endpoints.props
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.NannoA_MiniChallengeTwoToFour_Endpoints.props
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets.pack.json
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets.build.json
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets.development.json
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/scopedcss/bundle/NannoA_MiniChallengeTwoToFour_Endpoints.styles.css
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.csproj.CopyComplete
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.dll
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/refint/NannoA_MiniChallengeTwoToFour_Endpoints.dll
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.pdb
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.genruntimeconfig.cache
+G:/CodeStack/Level 2/week2/D2/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/ref/NannoA_MiniChallengeTwoToFour_Endpoints.dll
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/appsettings.Development.json
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/appsettings.json
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.deps.json
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.runtimeconfig.json
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.dll
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.pdb
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.csproj.AssemblyReference.cache
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.AssemblyInfoInputs.cache
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.AssemblyInfo.cs
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.csproj.CoreCompileInputs.cache
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.MvcApplicationPartsAssemblyInfo.cs
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.MvcApplicationPartsAssemblyInfo.cache
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.NannoA_MiniChallengeTwoToFour_Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.build.NannoA_MiniChallengeTwoToFour_Endpoints.props
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.NannoA_MiniChallengeTwoToFour_Endpoints.props
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.NannoA_MiniChallengeTwoToFour_Endpoints.props
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets.build.json
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/staticwebassets.development.json
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/scopedcss/bundle/NannoA_MiniChallengeTwoToFour_Endpoints.styles.css
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.csproj.CopyComplete
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.dll
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/refint/NannoA_MiniChallengeTwoToFour_Endpoints.dll
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.pdb
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/NannoA_MiniChallengeTwoToFour_Endpoints.genruntimeconfig.cache
+/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/Debug/net7.0/ref/NannoA_MiniChallengeTwoToFour_Endpoints.dll
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\appsettings.json
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.exe
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.deps.json
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.runtimeconfig.json
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.dll
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.pdb
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.csproj.AssemblyReference.cache
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.AssemblyInfoInputs.cache
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.AssemblyInfo.cs
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.csproj.CoreCompileInputs.cache
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.NannoA_MiniChallengeTwoToFour_Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.build.NannoA_MiniChallengeTwoToFour_Endpoints.props
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NannoA_MiniChallengeTwoToFour_Endpoints.props
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NannoA_MiniChallengeTwoToFour_Endpoints.props
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\scopedcss\bundle\NannoA_MiniChallengeTwoToFour_Endpoints.styles.css
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.csproj.CopyComplete
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.dll
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\refint\NannoA_MiniChallengeTwoToFour_Endpoints.dll
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.pdb
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\NannoA_MiniChallengeTwoToFour_Endpoints.genruntimeconfig.cache
+C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\Fixed version\NannoA_MiniChallengeTwoToFour_Endpoints\obj\Debug\net7.0\ref\NannoA_MiniChallengeTwoToFour_Endpoints.dll
